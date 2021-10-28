@@ -10,4 +10,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Pure neard 
 - 
-:[Vrushabh](https://github-readme-stats.vercel.app/api?username=VrushabBayas&show_icons=true&theme=radical)
+![Vrushabh](https://github-readme-stats.vercel.app/api?username=VrushabBayas&show_icons=true&theme=radical)
