@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on React Application developer
+- 🔭 I’m currently working on React Application development
 - 🌱 I’m currently learning Node js
 - 👯 I’m looking to collaborate on most of the open source projects out there 
 - 🤔 I’m looking for help with full stack development 
