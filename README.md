@@ -9,5 +9,5 @@
 - 📫 How to reach me:DM me or Twiter or linkedin
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Pure neard 
-- 
+
 ![Vrushabh](https://github-readme-stats.vercel.app/api?username=VrushabBayas&show_icons=true&theme=radical)
